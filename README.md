@@ -4,7 +4,6 @@
 
 <!--
 **ArthurBodrov/ArthurBodrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![LinkedIn](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg)](){:height="24px" width="24px"}
 
 Here are some ideas to get you started:
 
