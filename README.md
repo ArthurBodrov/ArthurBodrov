@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[<img align="left" alt="https://www.linkedin.com/in/arthur-bodrov-2051b2183/" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][LinkedIn]
 <!--
 **ArthurBodrov/ArthurBodrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
