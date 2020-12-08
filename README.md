@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkedIn](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg)](https://www.linkedin.com/in/arthur-bodrov-2051b2183/ | width=24)
+[![LinkedIn](https://www.flaticon.com/svg/static/icons/svg/174/174857.svg)](https://www.linkedin.com/in/arthur-bodrov-2051b2183/){:height="24px" width="24px"}
 
 
 <!--
