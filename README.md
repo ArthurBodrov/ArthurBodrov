@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-([<img align="left" alt="" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>])[https://www.linkedin.com/in/arthur-bodrov-2051b2183/]
+[<img align="left" alt="" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>][https://www.linkedin.com/in/arthur-bodrov-2051b2183/]
 <!--
 **ArthurBodrov/ArthurBodrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
