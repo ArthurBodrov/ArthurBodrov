@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/arthur-bodrov-2051b2183/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="24" height="24"/></a>
-<a href="https://medium.com/@latex."><img src="https://miro.medium.com/max/1000/1*Ra88BZ-CSTovFS2ZSURBgg.png" width="100" height="24"/></a>
+<a href="https://medium.com/@latex."><img src="https://miro.medium.com/max/1000/1*Ra88BZ-CSTovFS2ZSURBgg.png" width="80" height="24"/></a>
 
 
 <!--
