@@ -6,8 +6,7 @@
 
 # Прочая ламудень.
 <a href="https://www.codewars.com/users/ArthurBodrov"><img src="https://www.codewars.com/users/ArthurBodrov/badges/large"/><a/>
-  
-<a href="https://www.linkedin.com/in/arthur-bodrov-2051b2183/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="24" height="24"/></a>
+  <a href="https://www.linkedin.com/in/arthur-bodrov-2051b2183/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="24" height="24"/></a>
 
 
 <!--
