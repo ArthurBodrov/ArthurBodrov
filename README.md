@@ -2,7 +2,8 @@
 
 # Кто я такой? В чем моя особенность?
 
-# Проекты. Пинч. Ссылки.
+### Проекты.
+1. Анализ поведения более 160 тыс. клиентов. Типичный лог ивентов интернет-магазина преобразовывается в RFM анализ, чтобы ответить на вопрос: "Как вернуть пользователей, увеличить частоту покупок и увеличить средний чек?"<a href="https://github.com/ArthurBodrov/RFM-client-analysis">Ссылка на проект **RFM-client-analysis**<a/>
 
 # Прочая ламудень.
 <a href="https://www.codewars.com/users/ArthurBodrov"><img src="https://www.codewars.com/users/ArthurBodrov/badges/large"/><a/>
