@@ -7,7 +7,7 @@
   
 3. Скрепер объявдений c cайта <a href="https://auto.ru/">Auto.ru<a/> с помощью парсинга HTML code страницы. <a href="https://github.com/ArthurBodrov/autoru_scraper">Ссылка на проект **autoru_scraper**<a/>
 
-# Контакты
+### Контакты
 <a href="https://www.codewars.com/users/ArthurBodrov"><img src="https://www.codewars.com/users/ArthurBodrov/badges/large"/><a/>
 <a href="https://www.linkedin.com/in/arthur-bodrov-2051b2183/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="40" height="40"/></a>
 <a href="https://leetcode.com/ArthurBodrov/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" width="40" height="40"/></a>
